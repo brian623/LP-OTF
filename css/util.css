@@ -1,0 +1,18 @@
+.bg-card-1 {
+    background-image: url(../media/bg-image-card-1.png);
+    background-size: cover;
+}
+.bg-card-2 {
+    background-image: url(../media/bg-image-card-2.png);
+    background-size: cover;
+}
+.bg-card-3 {
+    background-image: url(../media/bg-image-card-3.png);
+    background-size: cover;
+}
+.txt-f10 {
+    color: #F10A0A;
+}
+.txt-white {
+    color: #FFF;
+}
